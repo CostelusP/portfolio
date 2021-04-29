@@ -27,6 +27,13 @@
     position: relative;
     z-index: 1; 
 }
+
+   @media (max-width: 1800px) {
+      .main-section {
+        padding-top: 130px;
+        padding-left: 250px ; } 
+    }
+
     @media (max-width: 1600px) {
       .main-section {
         padding-top: 180px;
