@@ -28,7 +28,7 @@
     z-index: 1; 
 }
 
-   @media (max-width: 1800px) {
+   @media (max-width: 1920px) {
       .main-section {
         padding-top: 130px;
         padding-left: 250px ; } 
