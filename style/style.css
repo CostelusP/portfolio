@@ -26,7 +26,7 @@
 .main-section .site-container {
     position: relative;
     z-index: 1; 
-    padding-left:200px
+    padding-left:200px;
 }
 
 /*    @media (max-width: 1920px) {
