@@ -153,6 +153,11 @@
     text-align: center;
     background-color: #fff; 
     margin-left: 200px;
+    transition: width 2s, height 4s;
+}
+
+.portfolio-wrapper::hover{
+    width: 410px;
 }
 .portfolio-wrapper .portfolio__img {
     font-size: 0; 
